@@ -21,5 +21,5 @@ This project implements a **Perturb and Observe (P&O) Maximum Power Point Tracki
 
 ## 🙋‍♀️ Authors
 
-Developed by **Seu Nome** and **Marina Dualibi** As part of the *EEL410269 Lógica Programável FPGA para Eletrônica de Potência* course – UFSC  
+Developed by **Rebecca Quintino Do Ó** and **Marina Dualibi** As part of the *EEL410269 Lógica Programável FPGA para Eletrônica de Potência* course – UFSC  
 [GitHub Repository](https://github.com/seu-usuario/seu-repositorio)
